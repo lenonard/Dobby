@@ -1,8 +1,8 @@
 #ifndef ARCH_IA32_REGISTERS
 #define ARCH_IA32_REGISTERS
 
-#include "source/core/arch/x86/constants-x86.h"
-#include "source/core/arch/Cpu.h"
+#include "core/arch/x86/constants-x86.h"
+#include "core/arch/Cpu.h"
 
 namespace zz {
 namespace x86 {
