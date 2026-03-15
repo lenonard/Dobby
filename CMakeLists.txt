@@ -83,7 +83,7 @@ message(STATUS "[Dobby] Private.Obfuscation: ${Private.Obfuscation}")
 include_directories(
   .
   ./include
-  ./source
+  ${PROJECT_SOURCE_DIR}/source
   source/dobby
 
   ./external
